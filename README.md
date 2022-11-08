@@ -1,2 +1,2 @@
-# apeperia
-Curso de CSS responsivo realizado na Alura
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
